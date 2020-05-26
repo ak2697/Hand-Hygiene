@@ -1,4 +1,4 @@
-package com.example.pythoncam;
+package com.handhygiene.pythoncam;
 
 import org.junit.Test;
 
